@@ -1,5 +1,5 @@
 {
-  "name": "@indevstudio/eact-event-listener",
+  "name": "@indevstudio/react-event-listener",
   "version": "0.6.6",
   "description": "A React component that allow to bind events on the global scope",
   "main": "dist/react-event-listener.cjs.js",
