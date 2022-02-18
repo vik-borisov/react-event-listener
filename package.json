@@ -1,6 +1,6 @@
 {
   "name": "@indevstudio/react-event-listener",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "description": "A React component that allow to bind events on the global scope",
   "main": "dist/react-event-listener.cjs.js",
   "types": "dist/index.d.ts",
@@ -14,6 +14,9 @@
     "prettier": "find . -name \"*.js\" | grep -v -f .eslintignore | xargs prettier --write",
     "version": "yarn build && pkgfiles"
   },
+  "files": [
+    "dist/index.d.ts"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/oliviertassinari/react-event-listener.git"
